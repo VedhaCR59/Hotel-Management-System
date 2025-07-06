@@ -15,7 +15,7 @@ This project was built as part of the academic learning at Emertxe Information T
 - Cancel any booking using customer ID
 - Generate bill using customer ID or mobile number
 - Automatically update room availability and save data
-  ### 👤 Customer Functionalities
+### 👤 Customer Functionalities
 - Sign up with username, password, and mobile (validation included)
 - Login using credentials
 - View available rooms
@@ -119,7 +119,6 @@ Here are some planned upgrades that can enhance the system further:
 ● Debugging and testing in C environment
 ##  🙏 Acknowledgments
 Special thanks to:
-
 Emertxe Information Technologies
 class mentors and lab mentors
 My batchmates who helped test and improve the system
@@ -128,3 +127,4 @@ This project is for educational purposes. You are free to use, modify, and share
 
 ##  💻 Connect with Me
 Feel free to explore this project and provide feedback. If you liked it or want to collaborate, let's connect on LinkedIn.
+https://www.linkedin.com/in/vedhacr
