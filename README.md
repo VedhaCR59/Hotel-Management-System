@@ -66,19 +66,19 @@ gcc *.c -o hotel
 ```
 ##  Challenges Faced
 
-Structuring a large C project into multiple files
+● Structuring a large C project into multiple files
 
-Handling file I/O for both reading and writing multiple types of data
+● Handling file I/O for both reading and writing multiple types of data
 
-Validating user inputs (dates, phone numbers, usernames)
+● Validating user inputs (dates, phone numbers, usernames)
 
-Generating unique IDs and reloading counters
+● Generating unique IDs and reloading counters
 
-Preventing duplicate room numbers and usernames
+● Preventing duplicate room numbers and usernames
 
-Calculating the number of days between two dates using time.h
+● Calculating the number of days between two dates using time.h
 
-Ensuring modularity, readability, and maintainability
+● Ensuring modularity, readability, and maintainability
 ##  🌟 Future Enhancements
 
 Here are some planned upgrades that can enhance the system further:
