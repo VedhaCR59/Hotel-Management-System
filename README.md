@@ -57,14 +57,14 @@ HotelManagement/
 ├── bills/
 │   ├── VC00001_bill.txt
 │   └── ...
-## 💡 How to Run
+##  💡 How to Run
 bash
 Copy
 Edit
 gcc *.c -o hotel
 ./hotel
 
-## Challenges Faced
+##  Challenges Faced
 Structuring a large C project into multiple files
 
 Handling file I/O for both reading and writing multiple types of data
@@ -78,7 +78,7 @@ Preventing duplicate room numbers and usernames
 Calculating the number of days between two dates using time.h
 
 Ensuring modularity, readability, and maintainability
-## 🌟 Future Enhancements
+##  🌟 Future Enhancements
 Here are some planned upgrades that can enhance the system further:
 
 GUI Integration using C GUI libraries (GTK or even Python-Tkinter wrapper)
@@ -99,7 +99,7 @@ Database Integration (e.g., SQLite instead of text files)
 
 Login Attempt Limiter: Lock user after 3 failed attempts
 
-## 🎓 What I Learned
+##  🎓 What I Learned
 Structuring large-scale C projects
 
 Modular programming and header file usage
@@ -115,7 +115,7 @@ Validation of real-world inputs (phone, date, password)
 Project planning and feature implementation step by step
 
 Debugging and testing in C environment
-## 🙏 Acknowledgments
+##  🙏 Acknowledgments
 Special thanks to:
 
 Emertxe Information Technologies
@@ -125,8 +125,8 @@ Vikas Sir – Class Mentor
 Pravin Sir – Lab Mentor
 
 My batchmates who helped test and improve the system
-## 📄 License
+##  📄 License
 This project is for educational purposes. You are free to use, modify, and share it with proper attribution.
 
-## 💻 Connect with Me
+##  💻 Connect with Me
 Feel free to explore this project and provide feedback. If you liked it or want to collaborate, let's connect on LinkedIn.
