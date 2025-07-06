@@ -57,14 +57,15 @@ HotelManagement/
 ├── bills/
 │   ├── VC00001_bill.txt
 │   └── ...
-## 💡 How to Run 
+## 💡 How to Run
+
 bash
 Copy
 Edit
 gcc *.c -o hotel
 ./hotel
-
 ##  Challenges Faced
+
 Structuring a large C project into multiple files
 
 Handling file I/O for both reading and writing multiple types of data
@@ -79,6 +80,7 @@ Calculating the number of days between two dates using time.h
 
 Ensuring modularity, readability, and maintainability
 ##  🌟 Future Enhancements
+
 Here are some planned upgrades that can enhance the system further:
 
 GUI Integration using C GUI libraries (GTK or even Python-Tkinter wrapper)
