@@ -59,11 +59,10 @@ HotelManagement/
 │   └── ...
 ## 💡 How to Run
 
-bash
-Copy
-Edit
+```bash
 gcc *.c -o hotel
 ./hotel
+```
 ##  Challenges Faced
 
 Structuring a large C project into multiple files
