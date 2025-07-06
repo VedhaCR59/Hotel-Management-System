@@ -2,7 +2,7 @@
 
 This is a **console-based Hotel Management System** developed using **C programming**. It allows both **Admin** and **Customer** roles with separate access levels, enabling seamless room management, customer booking, billing, and support functionalities.
 
-This project was built as part of the academic learning at **Emertxe Information Technologies** under the guidance of mentors **Vikas Sir (Class Mentor)** and **Pravin Sir (Lab Mentor)**.
+This project was built as part of the academic learning at Emertxe Information Technologies under the guidance and support of experienced faculty and peers
 ## 🔧 Features
 
 ### 👨‍💼 Admin Functionalities
@@ -121,11 +121,7 @@ Here are some planned upgrades that can enhance the system further:
 Special thanks to:
 
 Emertxe Information Technologies
-
-Vikas Sir – Class Mentor
-
-Pravin Sir – Lab Mentor
-
+class mentors and lab mentors
 My batchmates who helped test and improve the system
 ##  📄 License
 This project is for educational purposes. You are free to use, modify, and share it with proper attribution.
