@@ -83,40 +83,40 @@ gcc *.c -o hotel
 
 Here are some planned upgrades that can enhance the system further:
 
-GUI Integration using C GUI libraries (GTK or even Python-Tkinter wrapper)
+● GUI Integration using C GUI libraries (GTK or even Python-Tkinter wrapper)
 
-Admin Dashboard Reports: Daily/weekly booking and revenue reports
+● Admin Dashboard Reports: Daily/weekly booking and revenue reports
 
-Booking History for customers
+● Booking History for customers
 
-Feedback System: Collect ratings after checkout
+● Feedback System: Collect ratings after checkout
 
-Coupon/Discount System
+● Coupon/Discount System
 
-Online Payment Simulation
+● Online Payment Simulation
 
-Multi-language support
+● Multi-language support
 
-Database Integration (e.g., SQLite instead of text files)
+● Database Integration (e.g., SQLite instead of text files)
 
-Login Attempt Limiter: Lock user after 3 failed attempts
+● Login Attempt Limiter: Lock user after 3 failed attempts
 
 ##  🎓 What I Learned
-Structuring large-scale C projects
+● Structuring large-scale C projects
 
-Modular programming and header file usage
+● Modular programming and header file usage
 
-Working with structures and arrays of structures
+● Working with structures and arrays of structures
 
-Handling date and time in C
+● Handling date and time in C
 
-Implementing file handling for persistence
+● Implementing file handling for persistence
 
-Validation of real-world inputs (phone, date, password)
+● Validation of real-world inputs (phone, date, password)
 
-Project planning and feature implementation step by step
+● Project planning and feature implementation step by step
 
-Debugging and testing in C environment
+● Debugging and testing in C environment
 ##  🙏 Acknowledgments
 Special thanks to:
 
